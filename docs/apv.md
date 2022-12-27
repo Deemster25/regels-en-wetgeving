@@ -40,7 +40,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Noordstreek, wordt hierbij in
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het bestuur en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
@@ -79,8 +79,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Noordstreek, wordt hierbij in
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
     * Als overheidsmedewerker je voertuig in de garage plaatsen en er weer terug uithalen om te voorkomen dat je naar de ANWB moet om je voertuig te laten repareren (bijvoorbeeld om weer deel te nemen aan een achtervolging);
     * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
-    * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
-    * Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is.
+    * Medewerkers van de politie dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
+    * Je voertuig als gestolen melden bij de politie, terwijl dit niet het geval is.
     * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
     * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
@@ -129,8 +129,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Noordstreek, wordt hierbij in
 4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
 5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
-    * Koninklijke marechaussee
-    * Justitie
     * Ambulance
     * ANWB
     * Gemeenteraad
@@ -240,8 +238,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 21 - Impersonatie overheidsmedewerker
 
 1. Het is verboden om jezelf te verkleden als overheidsmedewerker en impliciet of expliciet aan te geven dat je een overheidsmedewerker bent. Dit is ter beoordeling aan een stafflid.
-2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie/koninklijke marechaussee of verwijzen naar de Politie/KMar.
-3. Waar is verwezen naar de Politie/KMar in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld.
+2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie of verwijzen naar de Politie.
+3. Waar is verwezen naar de Politie in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld.
 4. Bij overtreding van lid 1 en/of lid 2 zal er een straf uitgedeeld worden volgens de 2e categorie.
 
 ### Artikel 22 - SafeZone FailRP
@@ -317,7 +315,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens minimaal de 6e categorie.
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
 7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
-8. Op lid 7 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
+8. Op lid 7 geldt een uitzondering voor medewerkers van de politie met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 
 ### Artikel 29 - Overheidsvoertuigen
 
@@ -547,9 +545,8 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel N-1 - Schieten vanaf het vasteland en water
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
-2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
-3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
-4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
+2. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
+3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de ordediensten (Politie).
 
 ### Artikel N-2 - Landen van helikopers/vliegtuigen
 
