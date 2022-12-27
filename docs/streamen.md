@@ -28,7 +28,7 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 ## Bepaling en rechten
 
 1. Opgenomen of gepubliceerd materiaal zoals video, audio of elk ander beeldmateriaal gecreëerd door het gebruiken van onze diensten, blijft voor de duur van 12 maanden intellectueel eigendom van Noordstreek. Dit recht zal ingaan vanaf publicatie datum.
-2. Noordstreek behoudt zich het recht tot het eisen van verwijdering binnen 24 uur van video, audio of beeldmateriaal in welke vorm dan ook bij overtreding van de [Algemene Plaatselijke Verordening Noordstreek 2020](https://wetboek.tedeapolis.nl/apv/). Noordstreek geeft de gebruiker dus 24 uur om de publicatie offline te halen.
+2. Noordstreek behoudt zich het recht tot het eisen van verwijdering binnen 24 uur van video, audio of beeldmateriaal in welke vorm dan ook bij overtreding van de [Algemene Plaatselijke Verordening Noordstreek 2022](https://wetboek.noordstreek.nl). Noordstreek geeft de gebruiker dus 24 uur om de publicatie offline te halen.
 3. Noordstreek behoudt zich het recht tot het eisen van verwijdering binnen 24 uur van video, audio of beeldmateriaal in welke vorm dan ook bij content dat imago schade kan opleveren. Noordstreek geeft de gebruiker dus 24 uur om de publicatie offline te halen.
 4. Noordstreek kan een schadeloosstelling opleggen van maximaal 10.000,- euro wanneer een gebruiker dusdanig bewust of redelijkerwijs ongegrond imago schade toebrengt aan Noordstreek.
 5. Noordstreek neemt afstand van het recht op inkomsten dat een gebruiker van de diensten van Noordstreek omzet. Noordstreek heeft dus geen enkel recht op gegenereerde inkomsten van een gebruiker.
